@@ -1,0 +1,2 @@
+Invoking command in '/home/jetson/dockerMounts/ros2_docker/testing_ws/build/px4_msgs': /usr/bin/cmake --build /home/jetson/dockerMounts/ros2_docker/testing_ws/build/px4_msgs -- -j6 -l6
+Invoked command in '/home/jetson/dockerMounts/ros2_docker/testing_ws/build/px4_msgs' returned '2': /usr/bin/cmake --build /home/jetson/dockerMounts/ros2_docker/testing_ws/build/px4_msgs -- -j6 -l6
