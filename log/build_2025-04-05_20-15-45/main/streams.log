@@ -1,0 +1,26 @@
+[1.323s] Invoking command in '/ros_workspace_2025/ros2_docker/testing_ws/src/main': PYTHONPATH=/ros_workspace_2025/ros2_docker/testing_ws/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros_workspace_2025/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/main build --build-base /ros_workspace_2025/ros2_docker/testing_ws/build/main/build install --record /ros_workspace_2025/ros2_docker/testing_ws/build/main/install.log --single-version-externally-managed install_data
+[1.861s] running egg_info
+[1.861s] writing ../../build/main/main.egg-info/PKG-INFO
+[1.862s] writing dependency_links to ../../build/main/main.egg-info/dependency_links.txt
+[1.862s] writing entry points to ../../build/main/main.egg-info/entry_points.txt
+[1.862s] writing requirements to ../../build/main/main.egg-info/requires.txt
+[1.862s] writing top-level names to ../../build/main/main.egg-info/top_level.txt
+[1.863s] reading manifest file '../../build/main/main.egg-info/SOURCES.txt'
+[1.866s] writing manifest file '../../build/main/main.egg-info/SOURCES.txt'
+[1.866s] running build
+[1.867s] running build_py
+[1.867s] copying main/demig_points.py -> /ros_workspace_2025/ros2_docker/testing_ws/build/main/build/lib/main
+[1.869s] copying main/takeoff_land_offboard.py -> /ros_workspace_2025/ros2_docker/testing_ws/build/main/build/lib/main
+[1.869s] running install
+[1.870s] running install_lib
+[1.872s] copying /ros_workspace_2025/ros2_docker/testing_ws/build/main/build/lib/main/demig_points.py -> /ros_workspace_2025/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main
+[1.873s] copying /ros_workspace_2025/ros2_docker/testing_ws/build/main/build/lib/main/takeoff_land_offboard.py -> /ros_workspace_2025/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main
+[1.874s] byte-compiling /ros_workspace_2025/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main/demig_points.py to demig_points.cpython-310.pyc
+[1.878s] byte-compiling /ros_workspace_2025/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main/takeoff_land_offboard.py to takeoff_land_offboard.cpython-310.pyc
+[1.879s] running install_data
+[1.880s] running install_egg_info
+[1.884s] removing '/ros_workspace_2025/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info' (and everything under it)
+[1.884s] Copying ../../build/main/main.egg-info to /ros_workspace_2025/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info
+[1.891s] running install_scripts
+[1.969s] writing list of installed files to '/ros_workspace_2025/ros2_docker/testing_ws/build/main/install.log'
+[2.053s] Invoked command in '/ros_workspace_2025/ros2_docker/testing_ws/src/main' returned '0': PYTHONPATH=/ros_workspace_2025/ros2_docker/testing_ws/build/main/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros_workspace_2025/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/main build --build-base /ros_workspace_2025/ros2_docker/testing_ws/build/main/build install --record /ros_workspace_2025/ros2_docker/testing_ws/build/main/install.log --single-version-externally-managed install_data

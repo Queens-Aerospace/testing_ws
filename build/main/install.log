@@ -1,0 +1,9 @@
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/share/ament_index/resource_index/packages/main
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/share/main/package.xml
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info/top_level.txt
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info/entry_points.txt
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info/zip-safe
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info/PKG-INFO
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/jetson/dockerMounts/ros2_docker/testing_ws/install/main/lib/python3.10/site-packages/main-0.0.0-py3.10.egg-info/requires.txt
